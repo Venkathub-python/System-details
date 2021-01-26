@@ -1,2 +1,2 @@
-# System-details
-Use this simple project to know your system details
+#Note pad
+Use this simple project to make your own notepad 
